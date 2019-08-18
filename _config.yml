@@ -11,9 +11,9 @@ baseurl: ""                     # the subpath of your site, e.g. /blog
 # baseurl: ""
 
 author:
-    name: 
-    facebook: 
-    scholar:
+    name: Han
+    facebook: N/A
+    scholar: N/A
 
 # Build settings
 markdown: kramdown
@@ -24,11 +24,12 @@ highlighter: rouge
 # Set 'provider' to false to turn analytics off globally.
 #
 analytics:
-
-        sc_project  : 
-        sc_security : 
-        sc_invisible: 
-        sc_text     : 
+    provider: N/A
+    statcounter:
+        sc_project  : N/A
+        sc_security : N/A
+        sc_invisible: N/A
+        sc_text     : N/A
     google:
         tracking_id: ''
     getclicky:
