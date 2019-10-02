@@ -6,8 +6,8 @@ permalink: /
 
 {% include image.html url="images/profile_1.jpg" caption="In U.N. , July 2017" width="350px" align="right" %}
 
-Hi, I am an undergraduate at [University of Electronic Science and Technology of China] & [University of Glasgow]. My research interests focus on applying machine learning to solve practical problems, including parallel acceleration of GP, ultrasound imaging analysis, object detection and data mining.
-I am currently a research intern in [electrical & computer engineering department], Rutgers University, where I researched under the guidance of [Prof. Bo Yuan]. 
+Hi, I am an undergraduate at [University of Electronic Science and Technology of China] & [University of Glasgow]. My research interests focus on signal processing, optimization algorithms and ultrasound imaging analysis.
+I was a research intern in [electrical & computer engineering department], Rutgers University in this summer, where I researched under the guidance of [Prof. Bo Yuan]. 
 
 Email: [2289217l@student.gla.ac.uk]  <br />
 Github: [https://github.com/MasterEndless]
