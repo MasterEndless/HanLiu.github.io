@@ -10,7 +10,7 @@ permalink: /misc/
 	- First class honours degree (Top 1%）
 	- [Transcript](https://github.com/MasterEndless/Personal-Files/blob/master/UOG_HEAR.pdf?raw=true)
 - **University of Electronic Science and Technology of China**
-	- GPA: 3.76/4 
+	- GPA: 3.78/4 
 	- Ranking: 2/132
 
 ## Experience
