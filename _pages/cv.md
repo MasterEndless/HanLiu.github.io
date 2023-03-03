@@ -10,8 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-Service
-======
-
 ## Reviewer
 IEEE/ACM Transactions on Networking
