@@ -17,7 +17,7 @@ In *IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023.
 In *IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023.
 
 ### <span style="color:#52ADC8">IP Protection in TinyML</span>
-Jinwen Wang<sup>*</sup>, Yuhao Wu<sup>*</sup>, <b>Han Liu</b>, Bo Yuan, Roger Chamberlain, Ning Zhang (* Equal Contribution).\
+Jinwen Wang^*, Yuhao Wu^*, <b>Han Liu</b>, Bo Yuan, Roger Chamberlain, Ning Zhang (* Equal Contribution).\
 In *ACM/IEEE Design Automation Conference (DAC)*, 2023.
 
 
