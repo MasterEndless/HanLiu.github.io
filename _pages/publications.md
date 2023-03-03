@@ -17,7 +17,7 @@ In *IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023.
 In *IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023.
 
 ### <span style="color:#52ADC8">IP Protection in TinyML</span>
-Jinwen Wang^*, Yuhao Wu^*, <b>Han Liu</b>, Bo Yuan, Roger Chamberlain, Ning Zhang (* Equal Contribution).\
+Jinwen Wang*, Yuhao Wu*, <b>Han Liu</b>, Bo Yuan, Roger Chamberlain, Ning Zhang (* Equal Contribution).\
 In *ACM/IEEE Design Automation Conference (DAC)*, 2023.
 
 
@@ -31,7 +31,7 @@ In *ACM Conference on Computer and Communications Security (CCS)*, 2022.\
 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3548606.3560671)] [[Code](https://github.com/WUSTL-CSPL/EvilCalls)]
 
 ### <span style="color:#52ADC8">PolyRhythm: Adaptive Tuning of a Multi-Channel Attack Template for Timing Interference</span>
-Ao Li<sup>*</sup>, Marion Sudvarg<sup>*</sup>, <b>Han Liu</b>, Zhiyuan Yu, Chris Gill, Ning Zhang (* Equal Contribution).\
+Ao Li*, Marion Sudvarg*, <b>Han Liu</b>, Zhiyuan Yu, Chris Gill, Ning Zhang (* Equal Contribution).\
 In *IEEE Real-Time Systems Symposium (RTSS)*, 2022.
 [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9984708)] [[Code](https://github.com/WUSTL-CSPL/PolyRhythm)]
 
