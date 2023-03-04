@@ -32,7 +32,7 @@ In *ACM Conference on Computer and Communications Security (CCS)*, 2022.\
 
 ### <span style="color:#52ADC8">PolyRhythm: Adaptive Tuning of a Multi-Channel Attack Template for Timing Interference</span>
 Ao Li\*, Marion Sudvarg\*, <b>Han Liu</b>, Zhiyuan Yu, Chris Gill, Ning Zhang (* Equal Contribution).\
-In *IEEE Real-Time Systems Symposium (RTSS)*, 2022.
+In *IEEE Real-Time Systems Symposium (RTSS)*, 2022.\
 [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9984708)] [[Code](https://github.com/WUSTL-CSPL/PolyRhythm)]
 
 ### <span style="color:#52ADC8">From Timing Variations to Performance Degradation: Understanding and Mitigating the Impact of Software Execution Timing in SLAM</span>

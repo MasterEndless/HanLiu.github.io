@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-
-## Reviewer
-IEEE/ACM Transactions on Networking
+[Curriculum Vitae](/files/cv_han_liu.pdf)

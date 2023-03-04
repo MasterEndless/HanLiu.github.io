@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Han Liu"
 title_separator          : "-"
-name                     : &name "Hai Huang"
+name                     : &name "Han Liu"
 description              : &description "Ph.D. student at Washington University in St. Louis"
 url                      : https://masterendless.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
