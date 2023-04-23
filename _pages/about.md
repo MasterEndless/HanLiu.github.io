@@ -15,6 +15,7 @@ Research Interests
 
 What's New
 ======
+- [May 2023] I will start a new position as Applied Scientist Intern in Amazon this summer!
 - [February 2023] Two papers titled "RIATIG: Reliable and Imperceptible Adversarial Text-to-Image Generation with Natural Prompts" and "SlowLiDAR: Increasing the Latency of LiDAR-Based Detection Using Adversarial Examples" got accepted in [CVPR 2023](https://cvpr2023.thecvf.com/)!
 - [February 2023] One paper titled "IP Protection in TinyML" got accepted in [DAC 2023](https://www.dac.com/)!
 - [August 2022] One paper titled "When Evil Calls: Targeted Adversarial Voice over IP Network" got accepted in [CCS 2022](https://www.sigsac.org/ccs/CCS2022/)!
