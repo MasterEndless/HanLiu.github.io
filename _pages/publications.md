@@ -10,11 +10,13 @@ ___
 
 ### <span style="color:#52ADC8">RIATIG: Reliable and Imperceptible Adversarial Text-to-Image Generation with Natural Prompts</span>
 <b>Han Liu</b>, Yuhao Wu, Shixuan Zhai, Bo Yuan, Ning Zhang.\
-In *IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023.
+In *IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023. \
+[[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_RIATIG_Reliable_and_Imperceptible_Adversarial_Text-to-Image_Generation_With_Natural_Prompts_CVPR_2023_paper.pdf)] [[Code](https://github.com/wustl-cspl/riatig)]
 
 ### <span style="color:#52ADC8">SlowLiDAR: Increasing the Latency of LiDAR-Based Detection Using Adversarial Examples</span>
 <b>Han Liu</b>, Yuhao Wu, Zhiyuan Yu, Yevgeniy Vorobeychik, Ning Zhang.\
-In *IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023.
+In *IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023. \
+[[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_SlowLiDAR_Increasing_the_Latency_of_LiDAR-Based_Detection_Using_Adversarial_Examples_CVPR_2023_paper.pdf)] [[Code](https://github.com/WUSTL-CSPL/SlowLiDAR)] 
 
 ### <span style="color:#52ADC8">IP Protection in TinyML</span>
 Jinwen Wang\*, Yuhao Wu\*, <b>Han Liu</b>, Bo Yuan, Roger Chamberlain, Ning Zhang (* Equal Contribution).\
