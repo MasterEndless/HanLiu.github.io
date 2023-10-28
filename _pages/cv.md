@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae](/files/cv_han_liu.pdf)
+[Curriculum Vitae]()

@@ -7,6 +7,10 @@ author_profile: true
 
 ## 2023
 ___
+### <span style="color:#52ADC8">Please Tell Me More: Privacy Impact of Explainability through the Lens of Membership Inference Attack</span>
+<b>Han Liu</b>, Yuhao Wu, Zhiyuan Yu, Ning Zhang.\
+In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2023. (Acceptance Rate: 83/558=14.9%)
+
 
 ### <span style="color:#52ADC8">RIATIG: Reliable and Imperceptible Adversarial Text-to-Image Generation with Natural Prompts</span>
 <b>Han Liu</b>, Yuhao Wu, Shixuan Zhai, Bo Yuan, Ning Zhang.\
