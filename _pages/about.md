@@ -15,6 +15,7 @@ Research Interests
 
 What's New
 ======
+- [May 2023] I will start a new position as Applied Scientist Intern in Amazon this summer!
 - [Oct 2023] I am also actively looking for research internship opportunities for Summer 2024. My areas of interest include security and privacy, trustworthy machine learning, and large language models. If you know of any opportunities, please feel free to reach out!
 - [Oct 2023] One paper titled "Please Tell Me More: Privacy Impact of Explainability through the Lens of Membership Inference Attack" got accepted in [IEEE S&P 2024](https://sp2024.ieee-security.org/index.html)!
 - [May 2023] I will start a new position as Applied Scientist Intern in Amazon this summer!
