@@ -7,11 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a fourth-year Ph.D. student in the [Department of Computer Science and Engineering](https://cse.wustl.edu/) at [Washington University in St. Louis](https://wustl.edu/), advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html). Prior to that, I received dual Bachelor's degrees in Communication Engineering from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and [University of Glasgow (UoG)](https://www.gla.ac.uk/) (Graduated with First-class honor degree) in 2020. Additionally, I worked as a full-time machine learning engineer in [Tencent](https://www.tencent.com/) from 2020 to 2021, I am also a applied scientist intern in Amazon in 2023 summer, and a research scientist intern at Meta in 2024 summer. Additionally, I work as part-time student researcher in Meta in 2024 Fall.
+I am currently a fourth-year Ph.D. student in the [Department of Computer Science and Engineering](https://cse.wustl.edu/) at [Washington University in St. Louis](https://wustl.edu/), advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html). Prior to that, I received dual Bachelor's degrees in Communication Engineering from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and [University of Glasgow (UoG)](https://www.gla.ac.uk/) (Graduated with First-class honor degree) in 2020. Additionally, I worked as a full-time machine learning engineer at [Tencent](https://www.tencent.com/) from 2020 to 2021, and I was an applied scientist intern at [Amazon](https://www.amazon.science/) in the summer of 2023. Most recently, I worked as a research scientist intern at [Meta](https://research.facebook.com/) in the summer of 2024 and am currently continuing with Meta as a part-time student researcher for the Fall of 2024.
 
-I have industry experience as a full-time machine learning engineer at [Tencent](https://www.tencent.com/) from 2020 to 2021, and I was an applied scientist intern at [Amazon](https://www.amazon.science/) in the summer of 2023. Most recently, I worked as a research scientist intern at [Meta](https://research.facebook.com/) in the summer of 2024 and am currently continuing with Meta as a part-time student researcher for the Fall of 2024.
-
-\textcolor{red}{I am expected to graduate in May 2025 and am actively seeking full-time opportunities for research or applied scientist positions. Feel free to contact me at h.liu1@wustl.edu.}
+<span style="color:red;">I am expected to graduate in May 2025 and am actively seeking full-time opportunities for research or applied scientist positions. Feel free to contact me at h.liu1@wustl.edu.</span>
 
 Research Interests
 ======
@@ -32,13 +30,11 @@ What's New
 Publications
 ======
 ## Preprint
-___
 ### <span style="color:#52ADC8">SoK: Security and Privacy Risks of Medical AI</span>
 Yuanhaur Chang\*, <b>Han Liu\*</b>, Evin Jaff, Chenyang Lu, Ning Zhang (* Equal Contribution).\
 arXiv preprint arXiv:2409.07415.
 
 ## 2024
-___
 ### <span style="color:#52ADC8">Please Tell Me More: Privacy Impact of Explainability through the Lens of Membership Inference Attack</span>
 <b>Han Liu</b>, Yuhao Wu, Zhiyuan Yu, Ning Zhang.\
 In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2024. (Acceptance Rate: 83/558=14.9%) \
@@ -51,7 +47,6 @@ In *2024 Annual Conference of the North American Chapter of the Association for 
 [[PDF](https://aclanthology.org/2024.naacl-industry.40.pdf)] 
 
 ## 2023
-___
 ### <span style="color:#52ADC8">RIATIG: Reliable and Imperceptible Adversarial Text-to-Image Generation with Natural Prompts</span>
 <b>Han Liu</b>, Yuhao Wu, Shixuan Zhai, Bo Yuan, Ning Zhang.\
 In *IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023. \
@@ -67,10 +62,7 @@ Jinwen Wang\*, Yuhao Wu\*, <b>Han Liu</b>, Bo Yuan, Roger Chamberlain, Ning Zhan
 In *ACM/IEEE Design Automation Conference (DAC)*, 2023.
 
 
-
 ## 2022
-___
-
 ### <span style="color:#52ADC8">When Evil Calls: Targeted Adversarial Voice over IP Network</span>
 <b>Han Liu</b>, Zhiyuan Yu, Mingming Zha, XiaoFeng Wang, William Yeoh, Yevgeniy Vorobeychik, Ning Zhang.\
 In *ACM Conference on Computer and Communications Security (CCS)*, 2022.\
@@ -91,7 +83,12 @@ Services
 ======
 
 Conference Reviewer
-\itemize
+- First item
+- Second item
+  - Sub-item 1
+  - Sub-item 2
+- Third item
+
 
 
 
