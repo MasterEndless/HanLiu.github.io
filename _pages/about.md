@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a fourth-year Ph.D. student in the [Department of Computer Science and Engineering](https://cse.wustl.edu/) at [Washington University in St. Louis](https://wustl.edu/), advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html). Prior to that, I received dual Bachelor's degrees in Communication Engineering from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and [University of Glasgow (UoG)](https://www.gla.ac.uk/) (Graduated with First-class honor degree) in 2020. Additionally, I worked as a full-time machine learning engineer at [Tencent](https://www.tencent.com/) from 2020 to 2021, and I was an applied scientist intern at [Amazon](https://www.amazon.science/) in the summer of 2023. Most recently, I worked as a research scientist intern at [Meta](https://research.facebook.com/) in the summer of 2024 and am currently continuing with Meta as a part-time student researcher for the Fall of 2024.
+I am currently a fourth-year Ph.D. student in the [Department of Computer Science and Engineering](https://cse.wustl.edu/) at [Washington University in St. Louis](https://wustl.edu/), advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html). Prior to that, I received dual Bachelor's degrees in Communication Engineering from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and [University of Glasgow (UoG)](https://www.gla.ac.uk/) (Graduated with First-class honor degree) in 2020. Additionally, I worked as a machine learning engineer at [Tencent](https://www.tencent.com/) from 2020 to 2021, and I was an applied scientist intern at [Amazon](https://www.amazon.science/) in the summer of 2023. Most recently, I worked as a research scientist intern at [Meta](https://research.facebook.com/) in the summer of 2024 and am currently continuing with Meta as a part-time student researcher for the Fall of 2024.
 
 <span style="color:red;">I am expected to graduate in May 2025 and am actively seeking full-time opportunities for research or applied scientist positions. Feel free to contact me at h.liu1@wustl.edu.</span>
 
@@ -17,7 +17,7 @@ Research Interests
 
 What's New
 ======
-- [September 2024] I will start a new position as Part Time Student Researcher in Meta this fall!
+- [September 2024] I will start a new position as Student Researcher in Meta this fall!
 - [May 2024] I will start a new position as Research Scientist Intern in Meta this summer!
 - [Oct 2023] One paper titled "Please Tell Me More: Privacy Impact of Explainability through the Lens of Membership Inference Attack" got accepted in [IEEE S&P 2024](https://sp2024.ieee-security.org/index.html)!
 - [May 2023] I will start a new position as Applied Scientist Intern in Amazon this summer!
@@ -32,7 +32,8 @@ Publications
 
 ### <span style="color:#52ADC8">SoK: Security and Privacy Risks of Medical AI</span>
 Yuanhaur Chang\*, <b>Han Liu\*</b>, Evin Jaff, Chenyang Lu, Ning Zhang (* Equal Contribution).\
-arXiv preprint arXiv:2409.07415.
+arXiv preprint arXiv:2409.07415. \
+[[PDF](https://arxiv.org/pdf/2409.07415)] 
 
 ### <span style="color:#52ADC8">Please Tell Me More: Privacy Impact of Explainability through the Lens of Membership Inference Attack</span>
 <b>Han Liu</b>, Yuhao Wu, Zhiyuan Yu, Ning Zhang.\
@@ -78,8 +79,6 @@ Services
 ======
 
 ### Conference Reviewer
-
-Conference Reviewer
 - International Conference on Learning Representations (ICLR) 2025
 - Conference on Neural Information Processing Systems (NeurIPS) 2024
 - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024
