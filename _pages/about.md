@@ -13,7 +13,7 @@ I am currently a fourth-year Ph.D. student in the [Department of Computer Scienc
 
 Research Interests
 ======
-- Security and Privacy of Machine Learning, Large Language Model, and Information Retrieval
+- Security and Privacy of Machine Learning, Large Language Model, Generative AI, and Information Retrieval
 
 What's New
 ======
