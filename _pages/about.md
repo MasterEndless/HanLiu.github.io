@@ -29,24 +29,21 @@ What's New
 
 Publications
 ======
-## Preprint
+
 ### <span style="color:#52ADC8">SoK: Security and Privacy Risks of Medical AI</span>
 Yuanhaur Chang\*, <b>Han Liu\*</b>, Evin Jaff, Chenyang Lu, Ning Zhang (* Equal Contribution).\
 arXiv preprint arXiv:2409.07415.
 
-## 2024
 ### <span style="color:#52ADC8">Please Tell Me More: Privacy Impact of Explainability through the Lens of Membership Inference Attack</span>
 <b>Han Liu</b>, Yuhao Wu, Zhiyuan Yu, Ning Zhang.\
 In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2024. (Acceptance Rate: 83/558=14.9%) \
 [[PDF](https://bpb-us-w2.wpmucdn.com/sites.wustl.edu/dist/3/3270/files/2024/03/liu2024please-82cff929c098139a.pdf)] 
-
 
 ### <span style="color:#52ADC8">EIVEN: Efficient Implicit Attribute Value Extraction using Multimodal LLM</span>
 Henry Peng Zou, Gavin Heqing Yu, Ziwei Fan, Dan Bu, <b>Han Liu</b>, Peng Dai, Jia Dongmei, Cornelia Caragea.\
 In *2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)*, 2024. \
 [[PDF](https://aclanthology.org/2024.naacl-industry.40.pdf)] 
 
-## 2023
 ### <span style="color:#52ADC8">RIATIG: Reliable and Imperceptible Adversarial Text-to-Image Generation with Natural Prompts</span>
 <b>Han Liu</b>, Yuhao Wu, Shixuan Zhai, Bo Yuan, Ning Zhang.\
 In *IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023. \
@@ -61,8 +58,6 @@ In *IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023.
 Jinwen Wang\*, Yuhao Wu\*, <b>Han Liu</b>, Bo Yuan, Roger Chamberlain, Ning Zhang (* Equal Contribution).\
 In *ACM/IEEE Design Automation Conference (DAC)*, 2023.
 
-
-## 2022
 ### <span style="color:#52ADC8">When Evil Calls: Targeted Adversarial Voice over IP Network</span>
 <b>Han Liu</b>, Zhiyuan Yu, Mingming Zha, XiaoFeng Wang, William Yeoh, Yevgeniy Vorobeychik, Ning Zhang.\
 In *ACM Conference on Computer and Communications Security (CCS)*, 2022.\
@@ -82,14 +77,19 @@ In *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*,
 Services
 ======
 
+### Conference Reviewer
+
 Conference Reviewer
-- First item
-- Second item
-  - Sub-item 1
-  - Sub-item 2
-- Third item
+- International Conference on Learning Representations (ICLR) 2025
+- Conference on Neural Information Processing Systems (NeurIPS) 2024
+- IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024
+- AAAI Conference on Artificial Intelligence (AAAI) 2024, 2025
+- International World Wide Web Conference (WWW) 2024
+- Annual Meeting of the Association for Computational Linguistics (ACL) 2024
+- British Machine Vision Conference (BMVC) 2023
 
-
-
-
-Journal Reviewer
+### Journal Reviewer
+- IEEE Transactions on Information Forensics and Security
+- IEEE/ACM Transactions on Networking
+- IEEE Transactions on Circuits and Systems for Video Technology
+- Journal of Data-centric Machine Learning Research
