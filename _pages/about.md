@@ -29,6 +29,10 @@ What's New
 
 Publications
 ======
+### <span style="color:#52ADC8">Sequential LLM Framework for Fashion Recommendation</span>
+Han Liu, Xianfeng Tang, Tianlang Chen, Jiapeng Liu, Indu Indu, Henry Peng Zou, Peng Dai, Roberto Fernandez Galan, Michael D Porter, Dongmei Jia, Ning Zhang, Lian Xiong.\
+In *2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)*. \
+[[PDF](https://arxiv.org/pdf/2410.11327)] 
 
 ### <span style="color:#52ADC8">SoK: Security and Privacy Risks of Medical AI</span>
 Yuanhaur Chang\*, <b>Han Liu\*</b>, Evin Jaff, Chenyang Lu, Ning Zhang (* Equal Contribution).\
@@ -80,6 +84,7 @@ Services
 
 ### Conference Reviewer
 - International Conference on Learning Representations (ICLR) 2025
+- International Conference on Artificial Intelligence and Statistics (AISTATS) 2025
 - Conference on Neural Information Processing Systems (NeurIPS) 2024
 - IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024
 - AAAI Conference on Artificial Intelligence (AAAI) 2024, 2025
@@ -92,3 +97,4 @@ Services
 - IEEE/ACM Transactions on Networking
 - IEEE Transactions on Circuits and Systems for Video Technology
 - Journal of Data-centric Machine Learning Research
+- Neurocomputing
