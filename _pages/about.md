@@ -30,7 +30,7 @@ What's New
 Publications
 ======
 ### <span style="color:#52ADC8">Sequential LLM Framework for Fashion Recommendation</span>
-Han Liu, Xianfeng Tang, Tianlang Chen, Jiapeng Liu, Indu Indu, Henry Peng Zou, Peng Dai, Roberto Fernandez Galan, Michael D Porter, Dongmei Jia, Ning Zhang, Lian Xiong.\
+<b>Han Liu</b>, Xianfeng Tang, Tianlang Chen, Jiapeng Liu, Indu Indu, Henry Peng Zou, Peng Dai, Roberto Fernandez Galan, Michael D Porter, Dongmei Jia, Ning Zhang, Lian Xiong.\
 In *2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)*. \
 [[PDF](https://arxiv.org/pdf/2410.11327)] 
 
